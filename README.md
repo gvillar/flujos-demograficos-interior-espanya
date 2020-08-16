@@ -6,7 +6,7 @@
 Presented at Medialab prado (<a href="https://www.infotics.es/proyecto/jornadas-de-periodismo-de-datos-2017/"
  target="_blank">"Jornadas de periodismo de datos 2017"</a>)
 
-#### Summary of the project, in Spanish
+## Summary of the project, in Spanish
 
 Actualmente existe en Internet una gran cantidad de mapas elaborados a partir de datos del censo o
 del padrón continuo que ponen de manifiesto la despoblación que se ha producido en las últimas
