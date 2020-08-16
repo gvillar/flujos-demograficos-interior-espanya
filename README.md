@@ -1,4 +1,12 @@
-# Estudio de los flujos demográficos en el interior de España a través de microdatos
+# Reporting demographic flows in Spain through microdata (2017, language: Spanish)
+
+
+### Autorship: 2017 Carlos Córcoles (promoter), Paloma Díaz, Guillermo Villar
+
+Presented at Medialab prado (<a href="https://www.infotics.es/proyecto/jornadas-de-periodismo-de-datos-2017/"
+ target="_blank">"Jornadas de periodismo de datos 2017" (Bigon et al., 2019)</a>)
+
+#### Summary of the project, in Spanish
 
 Actualmente existe en Internet una gran cantidad de mapas elaborados a partir de datos del censo o
 del padrón continuo que ponen de manifiesto la despoblación que se ha producido en las últimas
