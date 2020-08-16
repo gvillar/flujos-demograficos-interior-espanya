@@ -4,7 +4,7 @@
 ### Autorship: 2017 Carlos Córcoles (promoter), Paloma Díaz, Guillermo Villar
 
 Presented at Medialab prado (<a href="https://www.infotics.es/proyecto/jornadas-de-periodismo-de-datos-2017/"
- target="_blank">"Jornadas de periodismo de datos 2017" (Bigon et al., 2019)</a>)
+ target="_blank">"Jornadas de periodismo de datos 2017"</a>)
 
 #### Summary of the project, in Spanish
 
